@@ -1,2 +1,2 @@
 # PrepCourse
-Repositorio de prueba
+Repositorio de prueba de como clonar de github
